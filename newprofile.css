@@ -1,0 +1,53 @@
+
+.bio
+{
+    height: 300px;
+    background-color:mistyrose;
+    margin-top: 30px;
+}
+.colour
+{
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0IDQ0ICA0IBwcHCA0HBwcHCA8ICQcNFREWFhURHxUYHSggGCYlJxMfITEhJSkrLi4uFx8zODMsNygtLisBCgoKDQ0NDw0NDysZFRkrKy0tNzcrLS0rNy03Ny0tNy0rKys3KysrKystKysrKysrKysrKysrKysrKysrKysrK//AABEIAL4BCgMBIgACEQEDEQH/xAAZAAEBAQEBAQAAAAAAAAAAAAABAgADBgf/xAAXEAEBAQEAAAAAAAAAAAAAAAAAAREC/8QAGgEBAQEBAQEBAAAAAAAAAAAAAgEABQMEBv/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8A+xiszjY9WTSDiCg0HBoopFODU0Gg4AqaaK9INFBoODU0Gh6QKBSk4NZNUmnAqaDQ9INSmqTSgVNR0uo6MaiuddK50oNc+nOuvTlVFHTnXTpzqpXOpVUqj3wo1n5fHf1mYLIzVJBwWTSDghNIODRRTUvSDWoYHAFBoODQmkPSBRRTUnBoopqacCipqqmlBTUdLrnTg1Nc6uopDXPpzrpXOqKOnPpfTnVRHSVdIVHvNbQz81jvadAZcTWoYWlIjaK1ByDWDCnBoopBwaBSmnBrVJBwKAaKcGipNFOBQmkHBoqKqppwU1HS659FBqa52rrn0QI6RV9OfSojpz6X050kR0lVSyPdaw0a/O47ihobVxGoYFiMzApBApqTkTWBqSkFqCmnBrBqDgUCkU4NCaRTgUWppopwaLUVVTSgp6RVVFODUVHS659EKOnPpdc+lRHSKqoqoipPSVF7nW0M4GO1pAZsYhgUia1bRQUiVmrApBahhpSDWoYacg0UGg4NApTTg1qk0UoITSmnAoqaqotKDU1FVUU4KK51fVc7VRPTn0vqudVKio6VaiqKKk9JVHudGjW1w8djSwbVxmbRrLia1YBcTSGFKQdahhSkSsGoOQWFNScgWtU0ilBFFainBoorUUoIqKqudpRKmotVUUhqeq59K6RVFNc+ldOdqomoqrUdKiOqk9IUXuWDONjr6QwXE0sBq42lgFxNIYUpB1gwKRGZklINrUMxyCBWoKQWTTU0oIqaU2lBoqKbUWlEFrnaq1z6IRa59VVqLVRFqKqoqonqudqrUdKKbUG1Oqj3DBnJx1NLBmxtIDauJpDBcTWYMWIzDRSkTWoasUHQzJKQdYWsNKQRaK1TaSNUWm1FpQaKi02otVB1UWm1FqimotPVRaqJtRaq1ztVBa52q6qLVSp6QbU6ovcsA5mOnpbQy4mltDNjazBlxNZqAWJp0DW1ZB1hraCxNahrRSkRrU1tFpC1Ta1qLVgtai1rU2klFqLTai1UHVc7VdVztVB1UWm1FqoOqi02udqiKjqq6rlaqC1Ot1Usj3bJZz8dDTranWXG1WjQzYmkDW1cTSNDLiMGBYmkaLRq4jUVrRaSNam1rUWriNam1rUWkOtai02otVB1UWm1FqoLUWm1FqoLUWm1FrIOqi02udqoOqi09VFqim0a1qdVHum0M+HH3adbRo1cbVAazY2m0DW1cTSBo1cTTobRqo2hrU2q2m1NotTaWCbUWtam1Ua1NotTaqNai1rU2sgtRabUWqgtTa1qLVRrUWm1ztVGtc7T1UWqgtRTai1UFqda1LI93raGfJj7NLANjarRoGrjK0aAyGtqdaqx1NotTauCq1NotFVm1NrWotVDam0WptVGtTa1qLVRrUWtamsjWptaotVGtRa1qKqNai09VztVGtRa1RWRrUWm1FVBaNahUf/Z);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    
+
+        .piechart { 
+
+            margin-top: 300px; 
+
+            display: block; 
+
+            position: absolute; 
+
+            width: 200px; 
+
+            height: 200px; 
+
+            border-radius: 50%; 
+
+            background-image: conic-gradient( 
+
+                pink 70deg,  
+
+                lightblue 0 235deg,  
+
+                orange 0); 
+                
+            display: flex; 
+
+            justify-content: center; 
+
+            align-items: center; 
+
+
+        } 
+
+  
+
+
+        
+        
+    
